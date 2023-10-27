@@ -1,3 +1,5 @@
+package basic;
+
 public class ReferenceTypes {
     public static void main(String[] args) {
         String str1 = "안녕하세요";

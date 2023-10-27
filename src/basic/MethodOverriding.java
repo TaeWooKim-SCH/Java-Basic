@@ -1,3 +1,5 @@
+package basic;
+
 public class MethodOverriding {
     public int plus(int x, int y) {
         return x + y;

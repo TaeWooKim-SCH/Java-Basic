@@ -1,3 +1,5 @@
+package basic;
+
 public class TwoDimensionalArrays {
     public static void main(String[] args) {
         int[][] array4 = new int[3][4];

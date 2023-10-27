@@ -1,3 +1,6 @@
+package basic;
+
+
 public class MethodOverridingExam {
     public static void main(String[] args) {
         MethodOverriding m1 = new MethodOverriding();

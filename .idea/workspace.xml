@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2973d85d-7779-4f7d-b091-5071ca8cfb04" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ConstructorOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/eightcruz/javastudy/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/HelloExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/CarExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Enum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodOverriding.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodOverridingExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/MethodOverridingExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReferenceTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ReferenceTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoDimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/TwoDimensionalArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

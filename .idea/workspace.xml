@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2973d85d-7779-4f7d-b091-5071ca8cfb04" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basic/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/DuckExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/TruckExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basic/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Bus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basic/BusExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/BusExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basic/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basic/CarExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/CarExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Truck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

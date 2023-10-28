@@ -1,7 +1,7 @@
 package basic;
 
 public class Car {
-    public Car(String name) {
+    public Car() {
         System.out.println("Car의 기본 생성자입니다.");
     }
     String name;

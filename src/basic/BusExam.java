@@ -6,7 +6,7 @@ public class BusExam {
         bus.run();
         bus.ppangppang();
 
-        Car car = new Car();
+        Car car = new Car("하이");
         car.run();
 //        car.ppangppang(); 자식이 갖고 있는 것이기 때문에 부모는 사용할 수 없음
     }
